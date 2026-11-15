@@ -1,6 +1,6 @@
 
 # Traffic Monitoring System
-A Python-based project that automates traffic violation detection by monitoring vehicle speeds, applying speed-limit rules, and generating violation summaries.
+A Python-based project that monitors vehicle speeds, identifies traffic violations, applies predefined speed-limit rules, and generates violation summaries.
 ## Features
 - Checks vehicle speeds according to vehicle type (car, bike, truck).
 - Automatically ignores emergency vehicles.
